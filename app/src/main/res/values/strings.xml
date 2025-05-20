@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inputvalidation</string>
+    <string name="enter_a_string">Enter a String</string>
+    <string name="length">Length</string>
+    <string name="reverse">Reverse</string>
+    <string name="append">Append</string>
+    <string name="numeric">Numeric</string>
+    <string name="clear">Clear</string>
+</resources>
